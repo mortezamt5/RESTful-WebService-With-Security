@@ -14,7 +14,7 @@
  4 - To enable encryption, add the <user-data-constraint> element and set the <transport-guarantee> subelement to CONFIDENTIAL. For more      information, see "user-data-constraint" in Developing Applications with the WebLogic Security Service.
  
  
- # Technologies and Tools used in this article:
+ # Technologies and Tools used in this project:
 
 - Jersey 1.8
 - JDK 1.8

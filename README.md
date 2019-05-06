@@ -1,5 +1,3 @@
-# RESTful-WebService-With-Security Using web.xml
-
 # How To to Create RESTful Webservice with Security in JAVA using web.xml ? 
 
  You can secure RESTful Web Service using web.xml for Java EE Web Application . 
